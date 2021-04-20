@@ -1,0 +1,24 @@
+﻿*) Liên kết và tài liệu học nâng cao về Angular 1
++ AngularJS: https://angularjs.org/
++ Conceptual Overview: https://docs.angularjs.org/guide/concepts
++ AngularJS Documentation: https://docs.angularjs.org/guide
++ API Reference: https://docs.angularjs.org/api
++ AngularJS Tutorial: http://www.w3schools.com/angular/angular_intro.asp
+
+*) Angular 2 đang được xây dựng và hoàn thiện, các liên kết học tập:
++ Angular 2: https://angular.io/
++ TypeScript: http://www.typescriptlang.org/Playground
++ ECMAScript 6 (ES6): https://github.com/lukehoban/es6features
++ Kho các bài giảng về Angular2: http://www.angular2.com/
+
+*) Các thư viện hữu ích
++ AngularJS modules: http://ngmodules.org/
++ Angular Material: https://material.angularjs.org/latest/
++ CSS Bootstrap: http://getbootstrap.com/
++ Bower: http://bower.io/
+
+*) Các công nghệ liên quan khi xây dựng và phát triển ứng dụng AngularJS
++ Node.js, nền tảng rất nhẹ để xây dựng ứng dụng thời gian thực phía Server: https://nodejs.org/
++ Ionic Framework, xây dựng ứng dụng Mobile cực nhanh, dễ dàng và đa nền tảng: http://ionicframework.com/
++ Firebase, dịch vụ cơ sở dữ liệu miễn phí: https://www.firebase.com/
++ Heroku, Hosting miễn phí: https://www.heroku.com/
